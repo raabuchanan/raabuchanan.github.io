@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Underwater Vehicle"
-excerpt: "Student Underwater Robotics Team.<br/><img src='/images/bradbury.jpg' width='50%'>"
+excerpt: "Student Underwater Robotics Team.<br/><img src='/images/bradbury.jpg' width='75%'>"
 collection: portfolio
 ---
 

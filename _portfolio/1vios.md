@@ -1,6 +1,6 @@
 ---
 title: "Visual Inertial ORB SLAM"
-excerpt: "Semester Proejct at ETH Zürich<br/><img src='/images/V202RT.jpg' width='50%'>"
+excerpt: "Semester Proejct at ETH Zürich<br/><img src='/images/V202RT.jpg' width='75%'>"
 collection: portfolio
 ---
 
