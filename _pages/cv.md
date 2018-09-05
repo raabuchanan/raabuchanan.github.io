@@ -19,22 +19,3 @@ Work experience
 
 * Software Engineering Intern, ABB Schweiz, 6 months 2017
 * Research Assistant, Robotic Systems Lab, ETH Zürich, 6 months part-time, 2016-2017
-  
-Skills
-======
-
-* Software: C/C++, Python, Linux, ROS, Javascript, Matlab, Lua, CUDA.
-* Embedded Systems: CAN, SPI, I2C, NuttX, FreeRTOS.
-* Hardware: Circuit board and electornics design.
-
-Publications
-======
-
-Coming Soon...
-  
-Projects
-======
-
-* Semester Thesis: Visual-Inertial SLAM for Micro Aerial Vehicles
-* [McGill Robotics](www.mcgillrobotics.com) Project Manager
-* Bachelor Thesis: Infrared-Based Landing System for Autonomous Quadrotor
