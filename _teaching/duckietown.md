@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Duckietown"
 collection: teaching
 type: "Master's level course"
 permalink: /teaching/duckietown
