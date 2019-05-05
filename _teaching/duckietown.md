@@ -10,4 +10,4 @@ location: "Zürich, Switzerland"
 
 In automn of 2018 I worked as a teaching assitant for the class [Autonomous Mobility on Demand](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=119019&semkez=2017W&lang=en) which is part of the [Duckietown project](https://www.duckietown.org/).
 
-[Imgur](https://i.imgur.com/YaPjge5.gifv)
+![Imgur](https://i.imgur.com/YaPjge5.gifv)
