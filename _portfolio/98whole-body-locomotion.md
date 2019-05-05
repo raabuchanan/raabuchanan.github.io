@@ -1,6 +1,6 @@
 ---
 title: "Perceptive Locomotion for legged Robotics."
-excerpt: "Masters thesis with the CSIRO<br/><img src='/images/hexapod.jpg' width='50%'>"
+excerpt: "Masters thesis with the CSIRO<br/><img src='/images/hexapod.jpg' width='75%'>"
 collection: portfolio
 ---
 

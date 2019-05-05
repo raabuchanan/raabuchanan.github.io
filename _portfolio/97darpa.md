@@ -1,6 +1,6 @@
 ---
 title: "DARPA Subterranean Challenge."
-excerpt: "Team CERBERUS<br/><img src='/images/darpa.jpg' width='75%'>"
+excerpt: "Team CERBERUS<br/><img src='/images/darpa.jpg' width='50%'>"
 collection: portfolio
 ---
 
