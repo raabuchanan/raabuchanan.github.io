@@ -15,13 +15,13 @@ author_profile: true
 # Conferences
 
 {% for post in site.conferences reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-no-title.html %}
 {% endfor %}
 
 ---
 # Journal Papers
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-no-title.html %}
 {% endfor %}
 
