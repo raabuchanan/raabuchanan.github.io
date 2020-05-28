@@ -5,8 +5,8 @@ permalink: /publication/jfr_2020_sewer
 excerpt: ''
 #date: 2019-02-15
 venue: 'Journal of Field Robotics'
-paperurl: ''
-citation: 'H. Kolvenbach, D. Wisth, <b>R. Buchanan</b>, G. Valsecchi, R. Grandia, M. Fallon and M. Hutter, "Towards Autonomous Inspection of Concrete Deterioration in Sewers with Legged Robots," Accepted in Journal of Field Robotics, May 2020'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.21964'
+citation: 'H. Kolvenbach, D. Wisth, <b>R. Buchanan</b>, G. Valsecchi, R. Grandia, M. Fallon, and M. Hutter, “Towards autonomous inspection of concrete deterioration in sewers with legged robots, <i>J Field Robotics</i>. 2020; 1-4'
 ---
 
 **Abstract:**<br>
