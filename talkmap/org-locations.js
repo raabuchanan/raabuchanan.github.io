@@ -14,7 +14,7 @@ var addressPoints = [
   [
     "University of Oxford, Oxford, United Kingdom",
     51.760837, -1.260264
-  ]
+  ],
   [
     "Saarland University, Saarbrücken, Germany",
     49.254770, 7.041470
