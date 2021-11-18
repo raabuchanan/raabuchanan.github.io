@@ -8,7 +8,7 @@ date: 2018-09-01
 location: "Zürich, Switzerland"
 ---
 
-**ETH Zürich Teaching Assistant:** 
+**ETH Zürich - Teaching Assistant** 
 
 I was a teaching assitant for the class [__Autonomous Mobility on Demand__](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=119019&semkez=2017W&lang=en) which is part of the [__Duckietown project__](https://www.duckietown.org/). *Master's level course*
 
