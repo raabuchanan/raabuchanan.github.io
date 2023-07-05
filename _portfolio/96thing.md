@@ -4,4 +4,4 @@ excerpt: "subTerranean Haptic INvestiGator Project<br/><img src='/images/THING_l
 collection: portfolio
 ---
 
-My PhD was partiall funded by the EU H2020 Project [subTerranean Haptic INvestiGator Project](http://thing-h2020.eu/).
+My PhD was partially funded by the EU H2020 Project [subTerranean Haptic INvestiGator Project](http://thing-h2020.eu/).

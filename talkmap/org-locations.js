@@ -16,6 +16,10 @@ var addressPoints = [
     51.760837, -1.260264
   ],
   [
+    "University of Edinburgh, Edinburgh, United Kingdom",
+    55.945015, -3.187552
+  ],
+  [
     "Saarland University, Saarbrücken, Germany",
     49.254770, 7.041470
   ]
