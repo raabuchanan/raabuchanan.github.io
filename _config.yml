@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Russell Buchanan"
-  avatar           : "profile2.jpg"
-  bio              : "PhD Candidate in Robotics"
-  location         : "Oxford, United Kingdom"
+  avatar           : "profile.jpg"
+  bio              : "Learning and Perception for Legged Robots"
+  location         : "Edinburgh, United Kingdom"
   employer         :
   googlescholar    : "https://scholar.google.ch/citations?user=jPoID5gAAAAJ&hl=en"
-  email            : "russell@robots.ox.ac.uk"
+  email            : "russell.buchanan@ed.ac.uk"
   uri              :
   bitbucket        : 
   codepen          :
