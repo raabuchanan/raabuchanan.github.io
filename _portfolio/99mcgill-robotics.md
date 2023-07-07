@@ -11,4 +11,4 @@ My with robotics began with [McGill Robotics](https://www.mcgillrobotics.com). I
 ![alt text](/images/mr2.jpg "RoboSub 2016")
 In the figure above, our robot uses the forward facing camera and visual servoing to bump into the underwater buoy, scoring our team points. 
 ![alt text](/images/mr3.jpg "RoboSub 2016")
-The 2016 team competeing in 2016 and reaching the final round. Our best performance ever!
+The 2016 team competeing in San Diego and reaching the final round. Our best performance ever!
